@@ -62,19 +62,23 @@ strong {
 .button {
 		font-family: 'Readex Pro', sans-serif;
 	font-weight: 400;
-	@apply text-[18px] md:text-[20px] lg:text-[22px] text-white bg-black py-[12px] text-center w-[250px] rounded-xl block;
+	@apply text-[18px] md:text-[20px] lg:text-[22px] text-black bg-[#DAFE00] py-[12px] text-center w-[250px] rounded-xl block;
 }
 
 .button-full {
 		font-family: 'Readex Pro', sans-serif;
 	font-weight: 400;
-	@apply text-[18px] md:text-[20px] lg:text-[22px] text-white bg-black py-[12px] text-center w-[100%] rounded-xl block;
+	@apply text-[18px] md:text-[20px] lg:text-[22px] text-black bg-[#DAFE00] py-[12px] text-center w-[100%] rounded-xl block;
 }
 
 .button-outline {
 		font-family: 'Readex Pro', sans-serif;
 	font-weight: 400;
-	@apply text-[18px] md:text-[20px] lg:text-[22px] text-black bg-white border-2 border-black py-[12px] text-center w-[250px] rounded-xl block;
+	@apply text-[18px] md:text-[20px] lg:text-[22px] text-white bg-black py-[12px] text-center w-[250px] rounded-xl block;
+}
+
+.t-brand {
+	@apply text-[#DAFE00];
 }
 
 .feature {
@@ -86,5 +90,5 @@ strong {
 }
 
 .website {
-	@apply bg-white rounded-xl block basis-full mb-[20px] lg:mb-[60px] max-w-[450px] mx-auto lg:mx-0 lg:basis-[30%] p-[20px];
+	@apply bg-white border rounded-xl block basis-full mb-[20px] lg:mb-[60px] max-w-[450px] mx-auto lg:mx-0 lg:basis-[30%] p-[20px];
 }
