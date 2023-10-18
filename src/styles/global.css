@@ -78,5 +78,13 @@ strong {
 }
 
 .feature {
-	@apply basis-full max-w-[350px] md:basis-[45%] lg:basis-[23%] py-[20px] mb-[40px];
+	@apply basis-full max-w-[350px] mx-auto text-center md:basis-[45%] lg:basis-[23%] py-[20px] lg:mb-[40px];
+}
+
+.padding {
+	@apply px-[20px] py-[50px] md:py-[75px] lg:py-[100px];
+}
+
+.website {
+	@apply bg-white rounded-xl block basis-full mb-[20px] lg:mb-[60px] max-w-[450px] mx-auto lg:mx-0 lg:basis-[30%] p-[20px];
 }
