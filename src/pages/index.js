@@ -13,7 +13,7 @@ const IndexPage = () => {
         <meta name='description' content='The reliable wordpress development subscription that grows with your team.' />
         <meta property="og:title" content="Rockpress"/>
         <meta property="og:type" content="article" />
-        <meta property="og:image" content="https://rockpress.io/meta.png"/>
+        <meta property="og:image" content="http://rockpress.io/meta.png"/>
         <meta property="og:url" content="https://rockpress.io"/>
         <meta name="twitter:card" content="summary_large_image"/>
 </Helmet>
