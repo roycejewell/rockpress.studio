@@ -3,8 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `rockpress.studio`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Rockpress`,
+    siteUrl: `https://rockpress.io`
   },
   plugins: ["gatsby-plugin-postcss", "gatsby-plugin-image", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
