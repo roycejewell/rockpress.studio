@@ -9,13 +9,23 @@ const IndexPage = () => {
     <Script src="https://cdn.usefathom.com/script.js" data-site="HSLDYFUV" defer />
 <Helmet>
         <html lang='en' />
-        <title>Rockpress</title>
-        <meta name='description' content='The reliable wordpress development subscription that grows with your team.' />
-        <meta property="og:title" content="Rockpress"/>
-        <meta property="og:type" content="article" />
-        <meta property="og:image" content="http://rockpress.io/meta.png"/>
-        <meta property="og:url" content="https://rockpress.io"/>
-        <meta name="twitter:card" content="summary_large_image"/>
+  <title>Rockpress</title>
+  <meta name="description" content="The reliable wordpress development subscription that grows with your team."/>
+
+  <meta property="og:url" content="https://rockpress.io/"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="Rockpress"/>
+  <meta property="og:description" content="The reliable wordpress development subscription that grows with your team."/>
+  <meta property="og:image" content="https://rockpress.io/meta.png"/>
+
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta property="twitter:domain" content="rockpress.io"/>
+  <meta property="twitter:url" content="https://rockpress.io/"/>
+  <meta name="twitter:title" content="Rockpress"/>
+  <meta name="twitter:description" content="The reliable wordpress development subscription that grows with your team."/>
+  <meta name="twitter:image" content="https://rockpress.io/meta.png"/>
+
+        
 </Helmet>
 
     <main>
