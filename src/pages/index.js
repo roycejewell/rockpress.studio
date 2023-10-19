@@ -1,10 +1,12 @@
 import * as React from "react"
 import Faq from '../components/faq'
 import {Helmet} from 'react-helmet'
+import { Script } from "gatsby"
 
 const IndexPage = () => {
   return (
     <>
+    <Script src="https://cdn.usefathom.com/script.js" data-site="HSLDYFUV" defer />
 <Helmet>
         <html lang='en' />
         <title>Rockpress</title>
