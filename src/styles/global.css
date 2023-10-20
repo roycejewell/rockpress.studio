@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@200;400;600&family=Readex+Pro:wght@200;400;600&family=Space+Grotesk:wght@200;400;600&family=Red+Hat+Mono:wght@200;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@200;400;600&family=Readex+Pro:wght@200;400;600&family=Space+Grotesk:wght@200;400;500;600&family=Red+Hat+Mono:wght@200;400;600&display=swap');
 
 * {
 	font-family: 'Space Grotesk', sans-serif;
@@ -10,8 +10,13 @@
 	letter-spacing: -0.05rem;
 }
 
-h1,h2,h3,h4 {
+h1,h2,h3 {
 	font-weight: 600;
+}
+
+h4 {
+	font-weight: 500;	
+
 }
 
 p {
@@ -50,7 +55,7 @@ h3 {
 }
 
 h4 {
-	@apply text-[16px] md:text-[18px] lg:text-[20px];
+	@apply text-[18px] md:text-[20px] lg:text-[22px];
 }
 
 p {
@@ -61,8 +66,12 @@ p {
 	@apply text-[18px] md:text-[20px] lg:text-[24px];
 }
 
+.p-xl {
+	@apply text-[20px] md:text-[24px] lg:text-[28px];
+}
+
 .p-light {
-	@apply text-[14px] md:text-[14px] lg:text-[16px];
+	@apply text-[14px] md:text-[14px] lg:text-[18px];
 }
 
 .button {
@@ -94,7 +103,7 @@ p {
 }
 
 .feature {
-	@apply basis-full max-w-[350px] mx-auto text-center basis-[45%] lg:basis-[23%] py-[20px] lg:mb-[40px];
+	@apply basis-full max-w-[650px] rounded-xl bg-white md:basis-[48%] mb-[20px] p-[30px] lg:mb-[40px];
 }
 
 .padding {
