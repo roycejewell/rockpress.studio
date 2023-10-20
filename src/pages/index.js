@@ -498,7 +498,7 @@ const IndexPage = () => {
 
         <div className='basis-full mt-[50px] p-[30px] bg-white rounded-xl'>
           <h3>Book a Call</h3>
-          <p className='mb-[30px]'>Questions? Reach out.</p>
+          <p className='mb-[30px]'>Questions? Reach out.<br/>Or shoot us an email, brandon@rockpress.io</p>
           <a className='button-outline-full mb-[0px] mt-[20px]' href='https://cal.com/rockpress/call'>Book a Call</a>
         </div>
       </div>
