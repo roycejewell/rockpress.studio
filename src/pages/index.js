@@ -403,7 +403,7 @@ const IndexPage = () => {
           <h3>Standard</h3>
           <p className='mb-[10px] md:mb-[40px]'>Unlimited wordpress development</p>
           <h1>$6,999 <span className='p-light'>+ tax/mo</span></h1>
-          <a className='button-full mb-[30px] mt-[20px]' href='#'>Start Today</a>
+          <a className='button-full mb-[30px] mt-[20px]' href="https://cal.com/rockpress/onboarding">Start Today</a>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
@@ -450,7 +450,7 @@ const IndexPage = () => {
           <h3>Pro</h3>
           <p className='mb-[10px] md:mb-[40px]'>Unlimited + 4hr of calls/mo</p>
           <h1>$9,999 <span className='p-light'>+ tax/mo</span></h1>
-          <a className='button-full mb-[30px] mt-[20px]' href='#'>Start Today</a>
+          <a className='button-full mb-[30px] mt-[20px]' href='https://cal.com/rockpress/pro-onboarding'>Start Today</a>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
@@ -499,8 +499,7 @@ const IndexPage = () => {
         <div className='basis-full mt-[50px] p-[30px] bg-white rounded-xl'>
           <h3>Book a Call</h3>
           <p className='mb-[30px]'>Questions? Reach out.</p>
-          <a className='button-outline-full mb-[0px] mt-[20px]' href='#'>Book a Call</a>
-
+          <a className='button-outline-full mb-[0px] mt-[20px]' href='https://cal.com/rockpress/call'>Book a Call</a>
         </div>
       </div>
 </div>
