@@ -414,6 +414,18 @@ const IndexPage = () => {
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
+            <span><strong>Unlimited</strong> Revisions</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
+            <span><strong>Unlimited</strong> Integrations</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
             <span><strong>1</strong> Website</span>
           </p>
           <p className='flex mb-[10px]'>
@@ -450,6 +462,18 @@ const IndexPage = () => {
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
+            <span><strong>Unlimited</strong> Revisions</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
+            <span><strong>Unlimited</strong> Integrations</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
             <span><strong>2</strong> Websites</span>
           </p>
           <p className='flex mb-[10px]'>
@@ -481,6 +505,18 @@ const IndexPage = () => {
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
             <span><strong>Unlimited</strong> Requests</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
+            <span><strong>Unlimited</strong> Revisions</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
+            <span><strong>Unlimited</strong> Integrations</span>
           </p>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
