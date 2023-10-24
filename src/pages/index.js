@@ -399,34 +399,70 @@ const IndexPage = () => {
             3 Spots Remaining
           </strong>
         </span>
-        <div className='basis-full md:basis-[48%] mt-[50px] p-[30px] bg-white rounded-xl'>
-          <h3>Standard</h3>
-          <p className='mb-[10px] md:mb-[40px]'>Unlimited wordpress development</p>
+        <div className='basis-full lg:basis-[30%] mt-[50px] p-[30px] bg-white rounded-xl'>
+          <h3>Starter</h3>
+          <p className='mb-[10px] md:mb-[40px]'></p>
+          <h1>$4,999 <span className='p-light'>+ tax/mo</span></h1>
+          <a className='button-full mb-[30px] mt-[20px]' href="https://cal.com/rockpress/onboarding">Start Today</a>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
+            <span><strong>Unlimited</strong> Requests</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
+            <span><strong>1</strong> Website</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
+            <span><strong>96</strong>hr avg turnaround</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>           
+            </span>
+            <span><strong>1hr</strong> of calls/mo.</span>
+          </p>
+          <p className='flex mb-[10px]'>
+            <span className='pr-[5px]'>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+            </span>
+            <span>Pause or cancel anytime</span>
+          </p>
+        </div>
+        <div className='basis-full lg:basis-[30%] mt-[50px] p-[30px] bg-white rounded-xl'>
+          <h3>Growth</h3>
+          <p className='mb-[10px] md:mb-[40px]'></p>
           <h1>$6,999 <span className='p-light'>+ tax/mo</span></h1>
           <a className='button-full mb-[30px] mt-[20px]' href="https://cal.com/rockpress/onboarding">Start Today</a>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
-            <span>Unlimited development</span>
+            <span><strong>Unlimited</strong> Requests</span>
           </p>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
-            <span>Unlimited revisions</span>
+            <span><strong>2</strong> Websites</span>
           </p>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
-            <span>Unlimited integrations</span>
+            <span><strong>72</strong>hr avg turnaround</span>
           </p>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
-              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>           
             </span>
-            <span>Async communication via slack</span>
+            <span><strong>2hr</strong> of calls/mo.</span>
           </p>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
@@ -434,46 +470,35 @@ const IndexPage = () => {
             </span>
             <span>Pause or cancel anytime</span>
           </p>
-          <p className='flex mb-[10px]'>
-            <span className='pr-[5px]'>
-              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
-            </span>
-            <span>New work every <strong>72</strong> hours</span>
-          </p>
-          <p className='flex mb-[10px]'>
-            <span className='pr-[5px]'>
-            <svg className='text-red-500' xmlns="http://www.w3.org/2000/svg" viewBox="-6 -6 24 24" width="24" fill="currentColor"><path d="M7.314 5.9l3.535-3.536A1 1 0 1 0 9.435.95L5.899 4.485 2.364.95A1 1 0 1 0 .95 2.364l3.535 3.535L.95 9.435a1 1 0 1 0 1.414 1.414l3.535-3.535 3.536 3.535a1 1 0 1 0 1.414-1.414L7.314 5.899z"></path></svg>            </span>
-            <s>Up to 4hr of calls/mo.</s>
-          </p>
         </div>
-        <div className='basis-full md:basis-[48%] mt-[50px] p-[30px] bg-white rounded-xl'>
+        <div className='basis-full lg:basis-[30%] mt-[50px] p-[30px] bg-white rounded-xl'>
           <h3>Pro</h3>
-          <p className='mb-[10px] md:mb-[40px]'>Unlimited + 4hr of calls/mo</p>
+          <p className='mb-[10px] md:mb-[40px]'></p>
           <h1>$9,999 <span className='p-light'>+ tax/mo</span></h1>
           <a className='button-full mb-[30px] mt-[20px]' href='https://cal.com/rockpress/pro-onboarding'>Start Today</a>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
-            <span>Unlimited development</span>
+            <span><strong>Unlimited</strong> Requests</span>
           </p>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
-            <span>Unlimited revisions</span>
+            <span><strong>Unlimited</strong> Websites</span>
           </p>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
               <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
             </span>
-            <span>Unlimited integrations</span>
+            <span><strong>48</strong>hr avg turnaround</span>
           </p>
-          <p className='flex mb-[10px]' id="call">
+          <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
-              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
+              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>           
             </span>
-            <span>Async communication via slack</span>
+            <span><strong>4hr</strong> of calls/mo.</span>
           </p>
           <p className='flex mb-[10px]'>
             <span className='pr-[5px]'>
@@ -481,30 +506,22 @@ const IndexPage = () => {
             </span>
             <span>Pause or cancel anytime</span>
           </p>
-          <p className='flex mb-[10px]'>
-            <span className='pr-[5px]'>
-              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
-            </span>
-            <span>New work every <strong>48</strong> hours</span>
-          </p>
-          <p className='flex mb-[10px]'>
-            <span className='pr-[5px]'>
-              <svg className='text-green-500' xmlns="http://www.w3.org/2000/svg" viewBox="-5 -7 24 24" width="24" fill="currentColor"><path d="M5.486 9.73a.997.997 0 0 1-.707-.292L.537 5.195A1 1 0 1 1 1.95 3.78l3.535 3.535L11.85.952a1 1 0 0 1 1.415 1.414L6.193 9.438a.997.997 0 0 1-.707.292z"></path></svg>
-            </span>
-            <span>Up to 4hr of calls/mo</span>
-          </p>
-
         </div>
 
-        <div className='basis-full mt-[50px] p-[30px] bg-white rounded-xl'>
+        <div className='basis-full md:basis-[48%] mt-[50px] p-[30px] bg-white rounded-xl'>
           <h3>Book a Call</h3>
-          <p className='mb-[30px]'>Questions? Reach out.<br/>Or shoot us an email, brandon@rockpress.io</p>
+          <p className='mb-[30px]'>Questions? Reach out.</p>
           <a className='button-outline-full mb-[0px] mt-[20px]' href='https://cal.com/rockpress/call'>Book a Call</a>
-        </div>
+      </div>
+      <div className='basis-full md:basis-[48%] mt-[50px] p-[30px] bg-white rounded-xl'>
+          <h3>Email Us</h3>
+          <p className='mb-[30px]'>Shoot us an email.</p>
+          <a className='button-outline-full mb-[0px] mt-[20px]' href='mailto:brandon@rockpress.io'>Get in Touch</a>
+      </div>
       </div>
 </div>
 
-<span className='block bg-slate-100 text-center pb-[30px]'>© 2023 Rockpress Studio</span>
+<span className='block bg-slate-100 text-center pb-[30px]'>© 2023 Rockpress.io</span>
 
 <div className='hidden'>
       <div className='max-w-[1140px] mx-auto padding flex flex-wrap items-center justify-between'>
