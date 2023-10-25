@@ -134,7 +134,7 @@ const IndexPage = () => {
 
 <div className='bg-black'>
       <div className='max-w-[1140px] mx-auto padding flex flex-wrap items-start justify-between'>
-        <h2 className='basis-full mb-[50px] lg:mb-[50px] text-left'>For Every Technical Use Case Your Team Has</h2>
+        <h2 className='basis-full mb-[50px] lg:mb-[50px] text-left text-white'>For Every Technical Use Case Your Team Has</h2>
         <div className='feature'>
           <svg className=''  width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect width="44.4444" height="44.4444" rx="4" fill="black"/>
@@ -367,7 +367,7 @@ const IndexPage = () => {
 
 <div className='bg-black'>
       <div className='max-w-[1140px] mx-auto padding flex flex-wrap items-start justify-between' id="pricing">
-        <h2 className='basis-full'>Our <strong>Membership</strong> options</h2>
+        <h2 className='basis-full text-white'>Our <strong>Membership</strong> options</h2>
         <span className='basis-full mx-auto flex items-center mt-[20px]'>
         <svg className='fill-red-500 h-[20px] w-[20px]' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 10.063V4C21 3.44772 20.5523 3 20 3H19C17.0214 4.97864 13.3027 6.08728 11 6.61281V17.3872C13.3027 17.9127 17.0214 19.0214 19 21H20C20.5523 21 21 20.5523 21 20V13.937C21.8626 13.715 22.5 12.9319 22.5 12 22.5 11.0681 21.8626 10.285 21 10.063ZM5 7C3.89543 7 3 7.89543 3 9V15C3 16.1046 3.89543 17 5 17H6L7 22H9V7H5Z"></path></svg>
           <strong className='ml-[10px] text-red-500'>
@@ -532,7 +532,7 @@ const IndexPage = () => {
       </div>
 </div>
 
-<span className='block bg-black text-center pb-[30px]'>© 2023 Rockpress.io</span>
+<span className='block bg-black text-center text-white pb-[30px]'>© 2023 Rockpress.io</span>
 
 <div className='hidden'>
       <div className='max-w-[1140px] mx-auto padding flex flex-wrap items-center justify-between'>
