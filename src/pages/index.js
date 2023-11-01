@@ -16,14 +16,14 @@ const IndexPage = () => {
   <meta property="og:type" content="website"/>
   <meta property="og:title" content="Rockpress"/>
   <meta property="og:description" content="The Technical Sidekick for your Marketing Team"/>
-  <meta property="og:image" content="https://rockpress.io/meta.png"/>
+  <meta property="og:image" content="https://rockpress.io/rpmeta.png"/>
 
   <meta name="twitter:card" content="summary_large_image"/>
   <meta property="twitter:domain" content="rockpress.io"/>
   <meta property="twitter:url" content="https://rockpress.io/"/>
   <meta name="twitter:title" content="Rockpress"/>
   <meta name="twitter:description" content="The Technical Sidekick for your Marketing Team"/>
-  <meta name="twitter:image" content="https://rockpress.io/meta.png"/>
+  <meta name="twitter:image" content="https://rockpress.io/rpmeta.png"/>
 
         
 </Helmet>
